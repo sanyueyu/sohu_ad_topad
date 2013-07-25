@@ -1,3 +1,9 @@
+/*
+	@author 朱现明
+	@desr 雷克萨斯侧边栏纵观天地广告
+	@time 2013/7//23
+*/
+
  SOHU_AD = {
 		 uitls : {},
 		 topad : {}
